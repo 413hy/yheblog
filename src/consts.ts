@@ -3,8 +3,8 @@
 
 // Site title and description
 export const SITE_LANG = "zh";
-export const SITE_TAB = "Yhe";
-export const SITE_TITLE = "yhe 🧊";
+export const SITE_TAB = "YheLog";
+export const SITE_TITLE = "yhelog 🧊";
 export const SITE_DESCRIPTION = "A blog about life and tech";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
@@ -77,7 +77,7 @@ export const menuItems = [
   {
     id: "contact",
     text: "联系",
-    href: "yhe8714@gmail.com", // Contact email
+    href: "mailto:contact.yhe8714@gmail.com", // Contact email
     target: "_blank", // Open in a new tab
     svg: "material-symbols:attach-email-outline-rounded",
   },
