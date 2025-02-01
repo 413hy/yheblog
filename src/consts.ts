@@ -3,13 +3,13 @@
 
 // Site title and description
 export const SITE_LANG = "zh";
-export const SITE_TAB = "YangHE";
-export const SITE_TITLE = "YangHE 🧊";
+export const SITE_TAB = "YheLog";
+export const SITE_TITLE = "YheLog 🧊";
 export const SITE_DESCRIPTION = "A blog about life and tech";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
-export const USER_NAME = "yhe";
+export const USER_NAME = "YangHE";
 export const USER_SITE = "https://yheblog.us.kg/"; // At the same time, this is also the site retrieved by the i18n configuration.
 export const USER_AVATAR = "/profile.webp";
 
