@@ -86,7 +86,7 @@ export const menuItems = [
 // Social media and contact icons
 export const socialIcons = [
   {
-    href: "https://github.com/dashboard",
+    href: "https://github.com/413hy",
     ariaLabel: "Github",
     title: "Github",
     svg: "ri:github-line",
