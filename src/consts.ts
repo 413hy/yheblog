@@ -3,8 +3,8 @@
 
 // Site title and description
 export const SITE_LANG = "zh";
-export const SITE_TAB = "YheLog";
-export const SITE_TITLE = "yhelog 🧊";
+export const SITE_TAB = "YangHE";
+export const SITE_TITLE = "YangHE 🧊";
 export const SITE_DESCRIPTION = "A blog about life and tech";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
