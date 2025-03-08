@@ -48,6 +48,7 @@ Dism /online /enable-feature /featurename:Microsoft-Hyper-V-All /LimitAccess /AL
 ## 3、安装WSL升级包
 
 然后你需要前往微软的官方网站下载WSL的离线升级包。
+或者直接点击[ WSL离线升级包 ](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)这里下载升级包。（会自动弹出下载链接，等待几秒即可）
 
 双击安装。这里我们可能需要再次重启电脑。
 
