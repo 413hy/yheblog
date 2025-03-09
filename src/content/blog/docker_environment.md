@@ -11,7 +11,7 @@ tags:
 badge: Pin
 ---
 
-这边主要是配置Docker环境的内容（哪怕你的电脑不支持hyper-v，Dno't be afraid,I'll help you!）
+这边主要是配置Docker环境的内容（哪怕你的电脑不支持hyper-v，Dno't be intimidated,this article will guide you through the world of Docker.）
 
 ## 0、在配置docker前，让我们先了解一下Docker吧！
 随着对大语言模型的深度使用，我们现在需要使用一些更加复杂的工具。这些工具并不是可以支持原生的Windows运行环境。为了能够在Windows上方便地使用这些软件或框架集，我们需要安装一套功能非常强大的运行环境，这个运行环境叫做Docker。
